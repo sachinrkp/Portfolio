@@ -18,7 +18,7 @@ I forked this website template from  **[RammCodes LinkedIn](https://linkedin.com
 
 <a href="https://linkedin.com/in/sachinrkp">
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4E35AQGDNoLlBC9YTA/profile-framedphoto-shrink_400_400/0/1674865700309?e=1707944400&v=beta&t=Ub9PIDK6H0DFLiuOsX4OYtUQh062-t_7HLbIsUaOgJA" alt="Sachin Linkedin Profile" width="100%" />
+  <img src="https://media.licdn.com/dms/image/D4E35AQGDNoLlBC9YTA/profile-framedphoto-shrink_400_400/0/1674865700309?e=1707944400&v=beta&t=Ub9PIDK6H0DFLiuOsX4OYtUQh062-t_7HLbIsUaOgJA" alt="Sachin Linkedin Profile" width="5%" />
   <br>
 </div>
 </a>
